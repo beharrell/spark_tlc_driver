@@ -2,6 +2,6 @@
 "name": "tlc_driver",
 "author": "pspaans <philipp.spaans@gmx.net>",
 "license": "BSD",
-"version": "1.0",
+"version": "1.0.0",
 "description": "A simple library build on the tlc-driver"
 }
